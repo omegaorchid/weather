@@ -152,3 +152,14 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+.DS_Store
+.idea/.DS_Store
+.idea/inspectionProfiles/
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
+.idea/weather.iml
+manage.py
+src/migrations/
+Would skip repository weather/
